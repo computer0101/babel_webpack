@@ -9,14 +9,14 @@
         "dev-server:prod": "webpack-dev-server --mode production",
         "dev-server:dev": "webpack-dev-server --mode development"
     },
-    "author": "Brad Traversy",
+    "author": "Devesh Patel",
     "license": "MIT",
     "devDependencies": {
         "babel-core": "*",
         "babel-loader": "*",
         "babel-preset-env": "*",
         "webpack": "*",
-        "webpack-cli": "^2.0.10",
+        "webpack-cli": "*",
         "webpack-dev-server": "*"
     }
 }
