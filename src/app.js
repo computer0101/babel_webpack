@@ -1,2 +1,2 @@
-let test = () => console.log('Hello there.');
+import test from './test';
 test();
